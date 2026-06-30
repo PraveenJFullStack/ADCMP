@@ -1,13 +1,13 @@
-# Real-World Case Study — Rakuten TDA (Targeting Display Ads)
+# Real-World Case Study — XX TDA (Targeting Display Ads)
 
-> Source: Internal Rakuten documents — TDA Onboarding PPT, Creative Submission & Reserves, Tenancy Ad Overview
+> Source: Internal XX documents — TDA Onboarding PPT, Creative Submission & Reserves, Tenancy Ad Overview
 > This case study grounds the ADCMP plugin concepts in a production ad platform used by 1,500+ merchants.
 
 ---
 
 ## 1. What TDA Is (and Why It's Relevant)
 
-TDA is Rakuten Ichiba's **self-serve targeting display ad product** for marketplace merchants.
+TDA is XX Ichiba's **self-serve targeting display ad product** for marketplace merchants.
 It is a real, operating example of everything our plugin needs to manage:
 
 | TDA Component | Plugin Module It Maps To |
